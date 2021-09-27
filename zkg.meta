@@ -1,0 +1,5 @@
+[package]
+description = a script that identifies remote file copies over smb2
+tags = smb2
+version = 1.0
+script_dir = scripts
